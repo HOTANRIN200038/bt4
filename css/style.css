@@ -1,0 +1,63 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(216, 182, 182);
+    width: 100%;
+    height: 100vh;
+}
+.container_wapper{
+    background-color: rgb(231, 222, 222);
+    width: 30rem;
+    height: 20rem;
+    display: flex;
+
+}
+.container-wapper_hot{
+    background-color:rgb(173, 65, 65) ;
+    width: 20%;
+    height: 17%;
+    text-align: center;
+    
+
+}
+.container_wapper1{
+    background-color: rgb(231, 227, 220);
+    width: 30rem;
+    height: 15rem;
+}
+img{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding: 50px 50px;
+    box-sizing: border-box;
+    position: relative;
+    top: 20;
+    left: -35px;
+    
+ }
+ .box_number{
+    display: flex;
+    justify-content: space-between;
+
+ }
+ .number-1{
+    margin-right: 10px;
+    color: rgb(18, 18, 17);
+    text-decoration: line-through;
+ }
+ .number-2{
+    color: rgb(145, 145, 85);
+    font-size: 0.60cm;
+
+ }
+ .icon1{
+    color: rgb(24, 100, 75);
+    padding: 10px;
+ }
+ .icon2{
+    color: rgb(225, 13, 31);
+    padding: 9px;
+ }
